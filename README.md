@@ -52,6 +52,7 @@ change in README.md on GitHub
 
 - `git fork` → Copies another user’s repo on GitHub (done via website)
 
+# Making Screenshot
 
 ![Screenshot](https://i.ibb.co/mCSPpLSd/screen-test.png)
 
